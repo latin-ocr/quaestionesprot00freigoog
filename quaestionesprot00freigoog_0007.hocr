@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesprot00freigoog_0007.png"; bbox 0 0 2975 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 8 385 71">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 8 385 71">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 8 385 71; baseline -0.021 -16"><span class='ocrx_word' id='word_1_1' title='bbox 0 63 6 71; x_wconf 52' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 151 8 385 55; x_wconf 49' lang='lat' dir='ltr'><strong>aaa.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 1350 2617 1602">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 1350 2617 1602">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 1350 2617 1602; baseline -0.001 -55"><span class='ocrx_word' id='word_1_3' title='bbox 305 1595 313 1602; x_wconf 56' lang='lat'><strong><em>„</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 400 1388 988 1547; x_wconf 80' lang='grc' dir='ltr'>ιῡΑΝΝι</span> <span class='ocrx_word' id='word_1_5' title='bbox 1064 1440 1774 1549; x_wconf 73' lang='lat' dir='ltr'><strong>GAsPAm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1843 1350 2617 1575; x_wconf 34' lang='lat' dir='ltr'><strong>oRELmo’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 400 1815 2561 1935">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 400 1815 2561 1935">
+     <span class='ocr_line' id='line_1_3' title="bbox 400 1815 2561 1935; baseline 0.004 -10"><span class='ocrx_word' id='word_1_7' title='bbox 400 1815 2561 1935; x_wconf 61' lang='lat' dir='ltr'><strong>HERMANNG‘SAUPPIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 776 2276 2175 2350">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 776 2276 2175 2350">
+     <span class='ocr_line' id='line_1_4' title="bbox 776 2276 2175 2350; baseline 0.009 -12"><span class='ocrx_word' id='word_1_8' title='bbox 776 2276 1518 2346; x_wconf 65' lang='lat' dir='ltr'><strong>PRAECEPTORIBUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1571 2277 2175 2350; x_wconf 75' lang='lat' dir='ltr'><strong>DILECTISSIMIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 816 3320 1932 3424">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 816 3320 1932 3424">
+     <span class='ocr_line' id='line_1_5' title="bbox 816 3320 1932 3424; baseline 0.004 -24"><span class='ocrx_word' id='word_1_10' title='bbox 816 3320 825 3400; x_wconf 71' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_11' title='bbox 927 3420 931 3424; x_wconf 77' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1043 3349 1529 3402; x_wconf 69' lang='lat' dir='ltr'><strong>nucu-usu</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1564 3351 1932 3405; x_wconf 63' lang='lat' dir='ltr'><strong>rum-An.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

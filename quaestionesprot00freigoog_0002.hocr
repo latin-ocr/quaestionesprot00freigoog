@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesprot00freigoog_0002.png"; bbox 0 0 2975 4959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1297 813 1989 820">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1297 813 1989 820">
+     <span class='ocr_line' id='line_1_1' title="bbox 1297 813 1989 820; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1297 813 1989 820; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1053 813 1989 822">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1053 813 1989 822">
+     <span class='ocr_line' id='line_1_2' title="bbox 1053 813 1989 822; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 1053 813 1989 822; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2889 3701 2900 4198">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2889 3701 2900 4198">
+     <span class='ocr_line' id='line_1_3' title="bbox 2889 3701 2900 4198; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 2889 3701 2900 4198; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 576 891 2101 3267">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 576 891 2101 3267">
+     <span class='ocr_line' id='line_1_4' title="bbox 576 891 2101 3267; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 576 891 2101 3267; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1968 4643 2424 4732">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1968 4643 2447 4747">
+     <span class='ocr_line' id='line_1_5' title="bbox 1968 4643 2424 4732; baseline 0.013 -10"><span class='ocrx_word' id='word_1_5' title='bbox 1968 4688 2138 4732; x_wconf 57' lang='lat' dir='ltr'>Digitizaed</span> <span class='ocrx_word' id='word_1_6' title='bbox 2157 4688 2200 4732; x_wconf 61' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_7' title='bbox 2215 4643 2257 4721; x_wconf 63' lang='grc'>(</span> <span class='ocrx_word' id='word_1_8' title='bbox 2284 4674 2424 4722; x_wconf 14' lang='grc' dir='ltr'>ἈΓΗ-Γπ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
